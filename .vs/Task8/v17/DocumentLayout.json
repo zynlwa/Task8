@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\shape1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\shape1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|c:\\users\\zeyna\\onedrive\\desktop\\task8\\task8\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061A9FDF-98D8-426E-82ED-F14B41A1E84B}|Task8\\Task8.csproj|solutionrelative:task8\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task8\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Rectangle.cs",
+              "RelativeToolTip": "Task8\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:25:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Circle.cs",
+              "RelativeDocumentMoniker": "Task8\\Circle.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Circle.cs",
+              "RelativeToolTip": "Task8\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:18:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape1.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Shape1.cs",
+              "RelativeDocumentMoniker": "Task8\\Shape1.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Shape1.cs",
+              "RelativeToolTip": "Task8\\Shape1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:05:56.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Car.cs",
+              "RelativeDocumentMoniker": "Task8\\Car.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Car.cs",
+              "RelativeToolTip": "Task8\\Car.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:37:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task8\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Vehicle.cs",
+              "RelativeToolTip": "Task8\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:33:01.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Account.cs",
+              "RelativeDocumentMoniker": "Task8\\Account.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Account.cs",
+              "RelativeToolTip": "Task8\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:14:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Program.cs",
+              "RelativeDocumentMoniker": "Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\zeyna\\OneDrive\\Desktop\\task8\\Task8\\Program.cs",
+              "RelativeToolTip": "Task8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:13:24.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
